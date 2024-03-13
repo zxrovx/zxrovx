@@ -10,10 +10,8 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-<p align="left">I'm still in the early stages of learning MongoDB, So I'm still learning from basics.</p>
-
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-<p align="right">I'm Still In The Early Stages Of Learning React, So I'm still learning from basics.</p>
+<p align="left">I'm still in the early stages of learning MongoDB And ReactJS, So I'm still learning from basics.</p>
 
 :paperclip:And if it is possible that I will add trajectories/programming languages ​​for my learning...
 <br><br>
